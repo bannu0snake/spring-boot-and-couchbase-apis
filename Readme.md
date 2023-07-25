@@ -1,4 +1,4 @@
-Installation Guide
+##Installation Guide
 
 1. Download and Extract the project.
 2. Download CouchDB server and create a bucket as “employee” and create admin user account
@@ -8,7 +8,7 @@ Installation Guide
 6. The Postman Exported Json file is attached in the zip folder.  
    File name: ‘api_routes.json’
 
-APIs Routes:
+##APIs Routes:
 
 Get Employee By Id:
 GET Request
